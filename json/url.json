@@ -32,6 +32,15 @@
                 "url": "http://zhijiangqiyuan.org"
             },
             {
+                "name": "云探针",
+                "url": "https://monitor.i5zhen.com/status/"
+            }
+        ]
+    },
+    {
+        "tit": "探针",
+        "list": [
+            {
                 "name": "www探针",
                 "url": "https://www.i5zhen.com/tools/tz.php"
             },
@@ -42,6 +51,14 @@
             {
                 "name": "lax探针",
                 "url": "https://lax.i5zhen.com/tz.php"
+            },
+            {
+                "name": "ss探针",
+                "url": "https://ss.i5zhen.com/tz.php"
+            },
+            {
+                "name": "hkg探针",
+                "url": "https://hkg.i5zhen.com/tz.php"
             },
             {
                 "name": "phx探针",
