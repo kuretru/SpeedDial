@@ -46,7 +46,7 @@
             },
             {
                 "name": "sjc探针",
-                "url": "https://kuretru.com/tz.php"
+                "url": "https://sjc.i5zhen.com/tz.php"
             },
             {
                 "name": "lax探针",
@@ -63,10 +63,6 @@
             {
                 "name": "phx探针",
                 "url": "https://monitor.i5zhen.com/tz.php"
-            },
-            {
-                "name": "汇总概览",
-                "url": "https://monitor.i5zhen.com/status/"
             }
         ]
     },
