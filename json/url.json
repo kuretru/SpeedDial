@@ -1,0 +1,199 @@
+[
+    {
+        "tit": "搜索",
+        "list": [
+            {
+                "name": "Google",
+                "url": "https://www.google.com/"
+            },
+            {
+                "name": "百度",
+                "url": "https://www.baidu.com/"
+            },
+            {
+                "name": "Google地图",
+                "url": "http://www.google.cn/maps"
+            },
+            {
+                "name": "百度地图",
+                "url": "http://map.baidu.com/"
+            }
+        ]
+    },
+    {
+        "tit": "Server",
+        "list": [
+            {
+                "name": "blog",
+                "url": "https://www.i5zhen.com"
+            },
+            {
+                "name": "之江棋院",
+                "url": "http://zhijiangqiyuan.org"
+            },
+            {
+                "name": "www探针",
+                "url": "https://www.i5zhen.com/tools/tz.php"
+            },
+            {
+                "name": "sjc探针",
+                "url": "https://kuretru.com/tz.php"
+            },
+            {
+                "name": "lax探针",
+                "url": "https://lax.i5zhen.com/tz.php"
+            },
+            {
+                "name": "phx探针",
+                "url": "https://monitor.i5zhen.com/tz.php"
+            },
+            {
+                "name": "汇总概览",
+                "url": "https://monitor.i5zhen.com/status/"
+            }
+        ]
+    },
+    {
+        "tit": "工具",
+        "list": [
+            {
+                "name": "Google站长",
+                "url": "https://www.google.com/webmasters/tools/dashboard?hl=zh_CN&siteUrl=https://www.i5zhen.com/"
+            },
+            {
+                "name": "百度站长",
+                "url": "http://zhanzhang.baidu.com/dashboard/index"
+            },
+            {
+                "name": "百度云",
+                "url": "http://yun.baidu.com/"
+            },
+            {
+                "name": "CNZZ",
+                "url": "https://web.umeng.com/main.php?c=site&a=show"
+            }
+        ]
+    },
+
+    {
+        "tit": "资讯",
+        "list": [
+            {
+                "name": "知乎",
+                "url": "https://www.zhihu.com/"
+            },
+            {
+                "name": "知乎日报",
+                "url": "http://daily.zhihu.com/"
+            },
+            {
+                "name": "V2EX",
+                "url": "https://www.v2ex.com/"
+            },
+            {
+                "name": "HostLoc",
+                "url": "http://www.hostloc.com/forum.php"
+            },
+            {
+                "name": "收破烂",
+                "url": "http://bbs.mydigit.cn/thread.php?fid=73"
+            }
+        ]
+    },
+    {
+        "tit": "邮件",
+        "list": [
+            {
+                "name": "QQ",
+                "url": "http://mail.qq.com/"
+            },
+            {
+                "name": "126",
+                "url": "http://mail.126.com/"
+            },
+            {
+                "name": "Gmail",
+                "url": "http://mail.google.com/"
+            },
+            {
+                "name": "LastPass",
+                "url": "https://lastpass.com/"
+            }
+        ]
+    },
+    {
+        "tit": "娱乐",
+        "list": [
+            {
+                "name": "游民星空",
+                "url": "http://www.gamersky.com/"
+            },
+            {
+                "name": "5EPlay",
+                "url": "http://www.5eplay.com/"
+            },
+            {
+                "name": "微博",
+                "url": "http://weibo.com/login"
+            },
+            {
+                "name": "淘宝",
+                "url": "https://www.taobao.com/"
+            },
+            {
+                "name": "京东",
+                "url": "http://www.jd.com/"
+            }
+        ]
+    },
+    {
+        "tit": "影视",
+        "list": [
+            {
+                "name": "Youtube",
+                "url": "https://www.youtube.com/"
+            },
+            {
+                "name": "优酷",
+                "url": "http://www.youku.com/"
+            },
+            {
+                "name": "爱奇艺",
+                "url": "http://www.iqiyi.com/"
+            },
+            {
+                "name": "斗鱼",
+                "url": "http://www.douyutv.com/"
+            },
+            {
+                "name": "熊猫",
+                "url": "http://www.panda.tv/"
+            }
+        ]
+    },
+    {
+        "tit": "项目",
+        "list": [
+            {
+                "name": "Github",
+                "url": "https://github.com/kuretru"
+            },
+            {
+                "name": "阿里云",
+                "url": "https://home.console.aliyun.com"
+            },
+            {
+                "name": "腾讯云",
+                "url": "https://console.qcloud.com"
+            },
+            {
+                "name": "Conoha",
+                "url": "https://www.conoha.jp/zh/"
+            },
+            {
+                "name": "DigitalOcean",
+                "url": "https://cloud.digitalocean.com"
+            }
+        ]
+    }
+]
