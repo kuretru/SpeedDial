@@ -34,6 +34,10 @@
             {
                 "name": "云探针",
                 "url": "https://monitor.i5zhen.com/status/"
+            },
+            {
+                "name": "ks-3c",
+                "url": "https://ovh-par.srv.kuretru.com:8006"
             }
         ]
     },
