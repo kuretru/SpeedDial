@@ -45,20 +45,12 @@
         "tit": "探针",
         "list": [
             {
-                "name": "www探针",
-                "url": "https://www.i5zhen.com/tools/tz.php"
-            },
-            {
                 "name": "sjc探针",
                 "url": "https://sjc.i5zhen.com/tz.php"
             },
             {
                 "name": "lax探针",
                 "url": "https://lax.i5zhen.com/tz.php"
-            },
-            {
-                "name": "ss探针",
-                "url": "https://ss.i5zhen.com/tz.php"
             },
             {
                 "name": "hkg探针",
@@ -110,6 +102,10 @@
             {
                 "name": "HostLoc",
                 "url": "http://www.hostloc.com/forum.php"
+            },
+            {
+                "name": "LowEndTalk",
+                "url": "https://www.lowendtalk.com/"
             },
             {
                 "name": "收破烂",
