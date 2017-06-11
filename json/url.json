@@ -24,8 +24,12 @@
         "tit": "Server",
         "list": [
             {
-                "name": "blog",
+                "name": "主页",
                 "url": "https://www.i5zhen.com"
+            },
+			{
+                "name": "呉真的blog",
+                "url": "https://blog.kuretru.com"
             },
             {
                 "name": "之江棋院",
@@ -67,7 +71,7 @@
         "list": [
             {
                 "name": "Google站长",
-                "url": "https://www.google.com/webmasters/tools/dashboard?hl=zh_CN&siteUrl=https://www.i5zhen.com/"
+                "url": "https://www.google.com/webmasters/tools/dashboard?hl=zh_CN&siteUrl=https://blog.kuretru.com/"
             },
             {
                 "name": "百度站长",
