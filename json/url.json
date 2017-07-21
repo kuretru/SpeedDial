@@ -37,7 +37,7 @@
             },
             {
                 "name": "云探针",
-                "url": "https://monitor.i5zhen.com/status/"
+                "url": "https://monitor.kuretru.com/status/"
             },
             {
                 "name": "ks-3c",
@@ -49,20 +49,20 @@
         "tit": "探针",
         "list": [
             {
-                "name": "sjc探针",
-                "url": "https://sjc.i5zhen.com/tz.php"
-            },
-            {
-                "name": "lax探针",
-                "url": "https://c3-lax.srv.kuretru.com/tz.php"
-            },
-            {
-                "name": "hkg探针",
+                "name": "acn-hkg探针",
                 "url": "https://acn-hkg.srv.kuretru.com/tz.php"
             },
             {
-                "name": "phx探针",
-                "url": "https://monitor.i5zhen.com/tz.php"
+                "name": "c3-lax探针",
+                "url": "https://c3-lax.srv.kuretru.com/tz.php"
+            },
+            {
+                "name": "qn-lax探针",
+                "url": "https://qn-lax.srv.kuretru.com/tz.php"
+            },
+            {
+                "name": "it7-phx探针",
+                "url": "https://it7-phx.srv.kuretru.com/tz.php"
             }
         ]
     },
