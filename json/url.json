@@ -63,6 +63,10 @@
             {
                 "name": "it7-phx探针",
                 "url": "https://it7-phx.srv.kuretru.com/tz.php"
+            },
+            {
+                "name": "dgc-sin探针",
+                "url": "https://dgc-sin.srv.kuretru.com/tz.php"
             }
         ]
     },
@@ -114,6 +118,10 @@
             {
                 "name": "收破烂",
                 "url": "http://bbs.mydigit.cn/thread.php?fid=73"
+            },
+            {
+                "name": "吾爱破解",
+                "url": "http://www.52pojie.cn"
             }
         ]
     },
