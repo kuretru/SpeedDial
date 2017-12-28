@@ -63,10 +63,6 @@
             {
                 "name": "it7-phx探针",
                 "url": "https://it7-phx.srv.kuretru.com/tz.php"
-            },
-            {
-                "name": "dgc-sin探针",
-                "url": "https://dgc-sin.srv.kuretru.com/tz.php"
             }
         ]
     },
@@ -84,10 +80,6 @@
             {
                 "name": "百度云",
                 "url": "http://yun.baidu.com/"
-            },
-            {
-                "name": "CNZZ",
-                "url": "https://web.umeng.com/main.php?c=site&a=show"
             }
         ]
     },
