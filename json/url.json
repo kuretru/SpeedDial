@@ -122,6 +122,19 @@
         ]
     },
     {
+        "tit": "网页设计",
+        "list": [
+            {
+                "name": "加油站",
+                "url": "http://www.68design.net/cool/?p=2"
+            },
+            {
+                "name": "花瓣网",
+                "url": "http://huaban.com/"
+            }
+        ]
+    },
+    {
         "tit": "邮件",
         "list": [
             {
