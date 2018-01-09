@@ -80,6 +80,10 @@
             {
                 "name": "百度云",
                 "url": "http://yun.baidu.com/"
+            },
+            {
+                "name": "Cheatsheets",
+                "url": "https://devhints.io/"
             }
         ]
     },
@@ -122,7 +126,7 @@
         ]
     },
     {
-        "tit": "网页设计",
+        "tit": "设计",
         "list": [
             {
                 "name": "加油站",
@@ -131,6 +135,10 @@
             {
                 "name": "花瓣网",
                 "url": "http://huaban.com/"
+            },
+            {
+                "name": "量贩铺",
+                "url": "http://aladd.net/"
             }
         ]
     },
