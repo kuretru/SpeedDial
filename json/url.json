@@ -141,8 +141,12 @@
                 "url": "http://aladd.net/"
             },
             {
-                "name": "TED演讲",
+                "name": "TED Talk",
                 "url": "https://www.ted.com/"
+            },
+            {
+                "name": "壹心理",
+                "url": "http://www.xinli001.com/"
             }
         ]
     },
