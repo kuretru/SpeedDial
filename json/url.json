@@ -78,10 +78,6 @@
                 "url": "http://zhanzhang.baidu.com/dashboard/index"
             },
             {
-                "name": "百度云",
-                "url": "http://yun.baidu.com/"
-            },
-            {
                 "name": "Cheatsheets",
                 "url": "https://devhints.io/"
             }
@@ -126,6 +122,19 @@
             {
                 "name": "吾爱破解",
                 "url": "http://www.52pojie.cn"
+            }
+        ]
+    },
+    {
+        "tit": "办公",
+        "list": [
+            {
+                "name": "百度云",
+                "url": "http://yun.baidu.com/"
+            },
+            {
+                "name": "有道云笔记",
+                "url": "http://note.youdao.com/"
             }
         ]
     },
@@ -248,14 +257,6 @@
             {
                 "name": "腾讯云",
                 "url": "https://console.qcloud.com"
-            },
-            {
-                "name": "Conoha",
-                "url": "https://www.conoha.jp/zh/"
-            },
-            {
-                "name": "DigitalOcean",
-                "url": "https://cloud.digitalocean.com"
             }
         ]
     }
